@@ -35,3 +35,6 @@
 | [**🔗 quiz game **]() | Dynamic Quiz Application |python(Flask) + Mysql |
 | [**🔗 POKEDEX **](https://abhaywadkar04.github.io/newpokidex/) | Website | Javascript  |
 | [**🔗 Drum kit **](https://abhaywadkar04.github.io/Drum-Kit/) | STATIC | HTML | Javascript |
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
+
