@@ -34,4 +34,4 @@
 | :--- | :---: | :---: |
 | [**🔗 quiz game **](https://next-js-coral-three-67.vercel.app/) | HTML & CSS |python(Flask) + Mysql |
 | [**🔗 POKEDEX **](https://abhaywadkar04.github.io/newpokidex/) | Website | Javascript  |
-| [**🔗 Drum kit **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML | Javascript |
+| [**🔗 Drum kit **]((https://abhaywadkar04.github.io/Drum-Kit/)) | STATIC | HTML | Javascript |
