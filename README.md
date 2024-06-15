@@ -33,5 +33,5 @@
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
 | [**🔗 quiz game **](https://next-js-coral-three-67.vercel.app/) | HTML & CSS |python(Flask) + Mysql |
-| [**🔗 POKEDEX **]([https://pokedex-pearl-six.vercel.app/](https://abhaywadkar04.github.io/newpokidex/)) | Website | Javascript  |
+| [**🔗 POKEDEX **](https://abhaywadkar04.github.io/newpokidex/) | Website | Javascript  |
 | [**🔗 Drum kit **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML | Javascript |
