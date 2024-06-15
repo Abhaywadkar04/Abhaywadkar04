@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src=“https://i.makeagif.com/media/4-05-2022/FvBVst.gif” alt=“gif-image”>
-<div><img align="right" src="https://stats.quine.sh/daemonX10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
+<div><img align="right" src="https://stats.quine.sh/Abhaywadkar04/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 
 - 🌱 I’m currently learning **react and Dsa**
 
