@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **github and deployment**
 
-- 💬 Ask me about **sql**
+- 💬 Ask me about **sql and c++**
 
 - 📫 How to reach me **abhaywadkar2004@gmail.com**
 
