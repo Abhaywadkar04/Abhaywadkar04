@@ -36,7 +36,7 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 PORTFOLIO **](https://abhaywadkar04.github.io/portfolio-main/)| Website | HTML & CSS |
+| [**🔗 PORTFOLIO **](https://glowing-rugelach-feca45.netlify.app/)| Website | HTML & CSS |
 | [**🔗 quiz game **]() | Dynamic Quiz Application |python(Flask) + Mysql |
 | [**🔗 POKEDEX **](https://abhaywadkar04.github.io/newpokidex/) | Website | Javascript  |
 | [**🔗 Drum kit **](https://abhaywadkar04.github.io/Drum-Kit/) | STATIC | HTML | Javascript |
