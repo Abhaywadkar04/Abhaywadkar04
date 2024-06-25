@@ -52,7 +52,7 @@
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
 | [**🔗 PORTFOLIO **](https://glowing-rugelach-feca45.netlify.app/)| Website | HTML & CSS |
-| [**🔗 WEBSITE **](https://starlit-granita-b5ebef.netlify.app/about)| Website | React.js |
+| [**🔗 WEBSITE **](https://starlit-granita-b5ebef.netlify.app/)| Website | React.js |
 | [**🔗 QUIZ-GAME **]() | Dynamic Quiz Application |python(Flask) + Mysql |
 | [**🔗 POKEDEX **](https://abhaywadkar04.github.io/newpokidex/) | Website | Javascript  |
 | [**🔗 TO-DO LIST **](https://adorable-sundae-f32588.netlify.app/)| STATIC | HTML | Javascript |
