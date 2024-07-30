@@ -73,5 +73,5 @@
 | [**🔗 ECHOE(BLOG-APP)**](https://appwriteblog-two-tau.vercel.app/)| Website | React.js and appwrite |
 | [**🔗 WEBSITE**](https://starlit-granita-b5ebef.netlify.app/) | Website | React.js |
 | [**🔗 QUIZ-GAME**]() | Dynamic Quiz Application | Python (Flask) + MySQL |
-| [**🔗 POKEDEX**](https://abhaywadkar04.github.io/newpokidex/) | Website | JavaScript |
+| [**🔗 POKEDEX**](https://pokiii.netlify.app) | Website | JavaScript |
 | [**🔗 TO-DO LIST**](https://adorable-sundae-f32588.netlify.app/) | Static | HTML, JavaScript |
