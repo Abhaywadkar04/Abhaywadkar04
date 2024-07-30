@@ -26,6 +26,22 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"></a>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop"></a>
   <a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"></a>
+  <a href="https://www.framer.com/motion/" target="_blank">
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+    
+</a>
+<a href="https://redux-toolkit.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
+</a>
+<a href="https://appwrite.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite">
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</a>
+
+
+
 </p>
 
 ---
