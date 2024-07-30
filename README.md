@@ -69,9 +69,11 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 PORTFOLIO**](https://glowing-rugelach-feca45.netlify.app/) | Website | HTML & CSS |
+| [**🔗 PORTFOLIO 2.0**](https://abhay-portfolio-04.netlify.app) | Website | react.js and framer-motion |
 | [**🔗 ECHOE(BLOG-APP)**](https://appwriteblog-two-tau.vercel.app/)| Website | React.js and appwrite |
 | [**🔗 WEBSITE**](https://starlit-granita-b5ebef.netlify.app/) | Website | React.js |
 | [**🔗 QUIZ-GAME**]() | Dynamic Quiz Application | Python (Flask) + MySQL |
 | [**🔗 POKEDEX**](https://pokiii.netlify.app) | Website | JavaScript |
+| [**🔗 PORTFOLIO**](https://glowing-rugelach-feca45.netlify.app/) | Website | HTML & CSS |
 | [**🔗 TO-DO LIST**](https://adorable-sundae-f32588.netlify.app/) | Static | HTML, JavaScript |
+
