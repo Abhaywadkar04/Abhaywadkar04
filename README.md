@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhay</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center" style="color: #FFFFFF;">Hi 👋, I'm Abhay</h1>
+<h3 align="center" style="color: #A9A9A9;">A passionate fullstack developer from India</h3>
 <img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
 
 ---
@@ -56,16 +56,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaywadkar04&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaywadkar04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywadkar04&" alt="GitHub Streak" />
+<p align="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywadkar04&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -81,4 +81,3 @@
 | [**🔗 POKEDEX**](https://pokiii.netlify.app) | Website | JavaScript |
 | [**🔗 PORTFOLIO**](https://glowing-rugelach-feca45.netlify.app/) | Website | HTML & CSS |
 | [**🔗 TO-DO LIST**](https://adorable-sundae-f32588.netlify.app/) | Static | HTML, JavaScript |
-
