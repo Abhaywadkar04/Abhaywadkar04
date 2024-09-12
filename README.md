@@ -56,21 +56,28 @@
 
 ## 📊 GitHub Stats
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaywadkar04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywadkar04&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="">
+<div style="display: flex; justify-content: space-between;">
+   <div>
+    <p align="">
       <img src="https://leetcode.card.workers.dev/abhaywadkar2004?theme=dark&font=&extension=activity" alt="leetcode" align="right"/>
-</p>
+    </p>
+  </div>
+</div>
+  <!-- Left Side - GitHub Stats and Streak -->
+  <div>
+    <p align="">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </p>
+    <p align="">
+      <img src="https://github-readme-stats.vercel.app/api?username=abhaywadkar04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </p>
+    <p align="">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywadkar04&theme=tokyonight" alt="GitHub Streak" />
+    </p>
+  </div>
+
+
+
 
 ---
 
