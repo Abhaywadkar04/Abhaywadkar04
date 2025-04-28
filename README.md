@@ -85,7 +85,7 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 PORTFOLIO 2.0**](https://abhay-portfolio-04.netlify.app) | Website | react.js and framer-motion |
+| [**🔗 PORTFOLIO **](https://abhaywadkar.netlify.app/) | Website | react.js and framer-motion |
 | [**🔗 ECHOE(BLOG-APP)**](https://appwriteblog-two-tau.vercel.app/)| Website | React.js and appwrite |
 | [**🔗 WEBSITE**](https://starlit-granita-b5ebef.netlify.app/) | Website | React.js |
 | [**🔗 QUIZ-GAME**]() | Dynamic Quiz Application | Python (Flask) + MySQL |
